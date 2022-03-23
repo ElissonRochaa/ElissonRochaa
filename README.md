@@ -9,10 +9,10 @@
 
 ### Experience
 
-<p>-> 2019 - currently -> Research Group on Telecommunications Networks (GPRT)</p>
-<p>Researcher</p>
-<p>High Availability SFCs allocation in Distributed Cloud (SFC-DCA)</p>
-<p>Distributed Cloud Availability (DCA)</p>
+-> 2019 - currently -> Research Group on Telecommunications Networks (GPRT)
+Researcher<br>
+High Availability SFCs allocation in Distributed Cloud (SFC-DCA)<br>
+Distributed Cloud Availability (DCA)<br>
 
 -> 2018 - currently -> DotLAB Brazil
 <p>Researcher</p>
