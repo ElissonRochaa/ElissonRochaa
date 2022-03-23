@@ -9,48 +9,48 @@
 
 ### Experience
 
--> 2019 - currently -> Research Group on Telecommunications Networks (GPRT)
-Researcher
-High Availability SFCs allocation in Distributed Cloud (SFC-DCA)
-Distributed Cloud Availability (DCA)
+<p>-> 2019 - currently -> Research Group on Telecommunications Networks (GPRT)</p>
+<p>Researcher</p>
+<p>High Availability SFCs allocation in Distributed Cloud (SFC-DCA)</p>
+<p>Distributed Cloud Availability (DCA)</p>
 
 -> 2018 - currently -> DotLAB Brazil
-Researcher
-Plataforma computacional para melhoria da qualidade da saúde materna e infantil com foco nos casos de morte fetal em Pernambuco
-Plataforma para apoio a tomada de decisão no diagnóstico e planejamento do tratamento de lesões periapicais por imagem utilizando modelos computacionais
-DEEPTUB: Uso de técnicas de deep learning na predição de óbitos por tuberculose no Estado do Amazonas
-Uso de técnicas de machine learning para predição de ocorrência de malária no Estado do Amazonas
+<p>Researcher</p>
+<p>Plataforma computacional para melhoria da qualidade da saúde materna e infantil com foco nos casos de morte fetal em Pernambuco</p>
+<p>Plataforma para apoio a tomada de decisão no diagnóstico e planejamento do tratamento de lesões periapicais por imagem utilizando modelos computacionais</p>
+<p>DEEPTUB: Uso de técnicas de deep learning na predição de óbitos por tuberculose no Estado do Amazonas</p>
+<p>Uso de técnicas de machine learning para predição de ocorrência de malária no Estado do Amazonas</p>
 
 -> 2020 - 2021 -> Faculdade EAD UNIASSELVI
-Tutor
+<p>Tutor</p>
 
 -> 2018 - 2018 -> Prefeitura de Caruaru
-BackEnd Programmer
-Development of web systems using java with spring and hibernate framework
+<p>BackEnd Programmer</p>
+<p>Development of web systems using java with spring and hibernate framework</p>
 
 -> 2016 - 2017 -> scientific research
-Researcher
-Simulação de mecanismos para gerenciamento de recursos em Nuvem Verde
+<p>Researcher</p>
+<p>Simulação de mecanismos para gerenciamento de recursos em Nuvem Verde</p>
 
 -> 2015 - 2016 -> Extension projects
-Researcher
-Caruaru Arretado: a universidade entendendo e solucionando problemas reais da sociedade
-Um Modelo Pedagógico para suporte a utilização da metodologia PBL(Problem-BasedLearing) no processo de ensino e aprendizagem em cursos de computação
+<p>Researcher</p>
+<p>Caruaru Arretado: a universidade entendendo e solucionando problemas reais da sociedade</p>
+<p>Um Modelo Pedagógico para suporte a utilização da metodologia PBL(Problem-BasedLearing) no processo de ensino e aprendizagem em cursos de computação</p>
 
 -> 2014 - 2015 -> Escola Tecnica Estadual do Bonito, ETE, Brasil
-Tutor
+<p>Tutor</p>
 
 
 ### Academic education
 
 -> 2021 - currently -> University of Pernambuco
-PhD in Computer Engineering
+<p>PhD in Computer Engineering</p>
 
 -> 2018 - 2020 -> University of Pernambuco
-Master in Computer Engineering
+<p>Master in Computer Engineering</p>
 
 -> 2013 - 2017 -> University of Pernambuco
-Bachelor in Information Systems
+<p>Bachelor in Information Systems</p>
 
 
 ### Connect with me:
