@@ -9,7 +9,7 @@
 
 ### Experience
 
--> 2019 - currently -> Research Group on Telecommunications Networks (GPRT)
+-> 2019 - currently -> Research Group on Telecommunications Networks (GPRT)<br>
 Researcher<br>
 High Availability SFCs allocation in Distributed Cloud (SFC-DCA)<br>
 Distributed Cloud Availability (DCA)<br>
