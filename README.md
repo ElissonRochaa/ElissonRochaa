@@ -3,8 +3,7 @@
 
 - 🔭 I’m currently working on **Machine/Deep Learning models for classification**
 
-<div> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElissonRochaa&show_icons=true&theme=radical)](https://github.com/ElissonRochaa/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElissonRochaa&layout=compact&theme=radical)](https://github.com/ElissonRochaa/) </div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElissonRochaa&show_icons=true&theme=radical)](https://github.com/ElissonRochaa/) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElissonRochaa&layout=compact&theme=radical)](https://github.com/ElissonRochaa/)
 
 
 <h3 align="left">Connect with me:</h3>
