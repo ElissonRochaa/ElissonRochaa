@@ -6,5 +6,5 @@
 
 - 🔭 I’m currently working on Machine/Deep Learning models for classification
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElissonRochaa)](https://github.com/Elissonrochaa/github-readme-stats)
 
