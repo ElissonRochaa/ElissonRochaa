@@ -9,47 +9,47 @@
 
 ### Experience
 
--> 2019 - currently -> Research Group on Telecommunications Networks (GPRT)<br>
+- 2019 - currently -> Research Group on Telecommunications Networks (GPRT)<br>
 Researcher<br>
 High Availability SFCs allocation in Distributed Cloud (SFC-DCA)<br>
 Distributed Cloud Availability (DCA)<br>
 
--> 2018 - currently -> DotLAB Brazil<br>
+- 2018 - currently -> DotLAB Brazil<br>
 Researcher<br>
 Plataforma computacional para melhoria da qualidade da saúde materna e infantil com foco nos casos de morte fetal em Pernambuco<br>
 Plataforma para apoio a tomada de decisão no diagnóstico e planejamento do tratamento de lesões periapicais por imagem utilizando modelos computacionais<br>
 DEEPTUB: Uso de técnicas de deep learning na predição de óbitos por tuberculose no Estado do Amazonas<br>
 Uso de técnicas de machine learning para predição de ocorrência de malária no Estado do Amazonas<br>
 
--> 2020 - 2021 -> Faculdade EAD UNIASSELVI<br>
+- 2020 - 2021 -> Faculdade EAD UNIASSELVI<br>
 Tutor<br>
 
--> 2018 - 2018 -> Prefeitura de Caruaru<br>
+- 2018 - 2018 -> Prefeitura de Caruaru<br>
 BackEnd Programmer<br>
 Development of web systems using java with spring and hibernate framework<br>
 
--> 2016 - 2017 -> scientific research<br>
+- 2016 - 2017 -> scientific research<br>
 Researcher<br>
 Simulação de mecanismos para gerenciamento de recursos em Nuvem Verde<br>
 
--> 2015 - 2016 -> Extension projects<br>
+- 2015 - 2016 -> Extension projects<br>
 Researcher<br>
 Caruaru Arretado: a universidade entendendo e solucionando problemas reais da sociedade<br>
 Um Modelo Pedagógico para suporte a utilização da metodologia PBL(Problem-BasedLearing) no processo de ensino e aprendizagem em cursos de computação<br>
 
--> 2014 - 2015 -> Escola Tecnica Estadual do Bonito, ETE, Brasil<br>
+- 2014 - 2015 -> Escola Tecnica Estadual do Bonito, ETE, Brasil<br>
 Tutor<br>
 
 
 ### Academic education
 
--> 2021 - currently -> University of Pernambuco<br>
+- 2021 - currently -> University of Pernambuco<br>
 PhD in Computer Engineering<br>
 
--> 2018 - 2020 -> University of Pernambuco<br>
+- 2018 - 2020 -> University of Pernambuco<br>
 Master in Computer Engineering<br>
 
--> 2013 - 2017 -> University of Pernambuco<br>
+- 2013 - 2017 -> University of Pernambuco<br>
 Bachelor in Information Systems<br>
 
 
